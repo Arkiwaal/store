@@ -1,0 +1,110 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Arkiwaal Spells the End for Surveillance"
+  content: "In an age of AI and corporate Surveillance, say no, fight back, resist. Free yourself. Rebel! Take your privacy and security into your own hands. We have already won. This is our slow march to victory. Slow is smooth, and smooth is fast.</p> <p>Take back your right to ownership. Take back your right to privacy.</p> <p>In the wise words of Thomas Jefferson-When injustice becomes law, resistance becomes duty.</p>"
+  image: "images/nethunter-pro-phone.png"
+  button:
+    enable: true
+    label: "Browse All Products"
+    link: "products/"
+
+############################# Feature ############################
+features:
+  enable: false
+  title: "Our Core Features"
+  image: "images/nethunter-pro-phone-2.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+    - title: "Smooth Touch"
+      icon: "tf-ion-ios-alarm-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+      # feature item loop
+    - title: "Elegant Design"
+      icon: "tf-ion-ios-bell-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+      # feature item loop
+    - title: "Easy Pricing"
+      icon: "tf-ion-ios-cart-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+    - title: "Smooth Touch"
+      icon: "tf-ion-ios-alarm-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+      # feature item loop
+    - title: "Elegant Design"
+      icon: "tf-ion-ios-bell-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+      # feature item loop
+    - title: "Easy Pricing"
+      icon: "tf-ion-ios-cart-outline"
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
+############################# promo ############################
+promo:
+  enable: true
+  image: "images/nethunter-pro-phone-3.png"
+  title: "For Professionals by Professionals"
+  content: ""
+
+############################# About Product #######################
+about_product:
+  enable: false
+  title: "Why Choose Apple Watch"
+  items:
+    # about product item loop
+    - image: "images/showcase/showcase-4.png"
+      title: "Lorem ipsum dolor sit amet."
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+    # about product item loop
+    - image: "images/showcase/showcase-3.png"
+      title: "Lorem ipsum dolor sit amet."
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+#################################### Products ########################
+products:
+  enable: true
+  title: "Merch"
+
+################################## Subscription ###################
+subscription:
+  enable: false
+  bg_image: "images/call-to-action.jpg"
+  title: "Newsletter"
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  placeholder: "Email"
+
+############################## Testimonial ##########################
+testimonial:
+  enable: false
+  title: "Testimonial Placeholder"
+  testimonial_item:
+    - name: "John Doe"
+      designation: "Anonymous"
+      image: "images/avatar.png"
+      content: "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat."
+

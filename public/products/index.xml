@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Store on Arkiwaal Store</title>
+    <link>https://arkiwaal.github.io/store/products/</link>
+    <description>Recent content in Store on Arkiwaal Store</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    <atom:link href="https://arkiwaal.github.io/store/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consultation: Digital Privacy</title>
+      <link>https://arkiwaal.github.io/store/products/product-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>https://arkiwaal.github.io/store/products/product-3/</guid>
+      <description>&lt;p&gt;Interested in digital privacy? We&amp;rsquo;ve got solutions.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re new to digital privacy, rest assured, we got your back. We do the heavy lifting so you don&amp;rsquo;t have to-we offer solutions for all threat models.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Custom ROMs/Operating Systems</title>
+      <link>https://arkiwaal.github.io/store/products/product-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>https://arkiwaal.github.io/store/products/product-2/</guid>
+      <description>&lt;p&gt;Interested in flashing a more private operating system onto your phone? Or perhaps you&amp;rsquo;re more interested in a speciality operating system? We&amp;rsquo;ve got it all-from the best ROMs for privacy to ROMs for offensive and defensive security.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OnePlus 6T - Kali Nethunter Pro</title>
+      <link>https://arkiwaal.github.io/store/products/product-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      <guid>https://arkiwaal.github.io/store/products/product-1/</guid>
+      <description>&lt;p&gt;Kali NetHunter Pro is the official Kali Linux build for mobile devices. This limited edition OnePlus 6T comes with Kali Nethunter Pro pre-flashed and has performance equivalent to most modern laptops and desktops.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
